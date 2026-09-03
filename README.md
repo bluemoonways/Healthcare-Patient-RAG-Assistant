@@ -116,16 +116,5 @@ A sanitized n8n workflow file is included for portfolio demonstration.
 👉 [View / Download Workflow JSON](Health_Care_Patient_RAG.json)
 
 For custom implementation or commercial use, please <strong>Contact Us:</strong>
-
 <a href="https://wa.me/923002120566"><img src="https://raw.githubusercontent.com/bluemoonways/bluemoonways/main/assets/whatsapp-logo.png" width="24" alt="WhatsApp" style="position: relative; top: 2px;"></a><a href="https://www.linkedin.com/in/faheem-abbas-ai-automation-specialist/"><img src="https://raw.githubusercontent.com/bluemoonways/bluemoonways/main/assets/linkedin-logo.png" width="24" alt="LinkedIn" style="position: relative; top: 2px;"></a>
 
-## 📁 Project Structure
-
-```text
-Healthcare-Patient-RAG-Assistant/
-├── README.md
-├── Health_Care_Patient_RAG.json
-├── sample-data/
-│   └── Healthcare_Guide.pdf
-└── screenshots/
-    └── Healthcare-Patient-RAG-Assistant-flowchart.png
