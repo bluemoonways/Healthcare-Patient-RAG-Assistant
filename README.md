@@ -16,7 +16,7 @@ The workflow is designed to avoid unsupported answers and directs users to consu
 
 [![Healthcare Patient RAG Assistant Workflow](screenshots/Healthcare-Patient-RAG-Assistant-flowchart.png)](screenshots/Healthcare-Patient-RAG-Assistant-flowchart.png)
 
-### Document Ingestion & Indexing
+## Document Ingestion & Indexing
 
 1. **Upload Healthcare Document**
    - A healthcare guide or patient document is uploaded through an n8n form.
