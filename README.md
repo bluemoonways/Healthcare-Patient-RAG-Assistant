@@ -56,7 +56,7 @@ The workflow uses a healthcare patient guide as the source document for the RAG 
 
 The document is processed, converted into vector embeddings, and stored in Pinecone so the AI Agent can retrieve relevant information when answering patient questions.
 
-👉 [View / Download Healthcare Patient Guide](sample-data/Healthcare_Patient_Guide.pdf)
+👉 [View / Download Healthcare Patient Guide](Healthcare_Patient_Guide.pdf)
 
 ## 🎯 Key Features
 
