@@ -52,9 +52,11 @@ The workflow is designed to avoid unsupported answers and directs users to consu
 
 ## 📄 Knowledge Base Document
 
-The workflow uses a healthcare guide as its source document for the RAG pipeline.
+The workflow uses a healthcare patient guide as the source document for the RAG pipeline.
 
-The document is extracted, processed, converted into embeddings, and stored in Pinecone so that relevant healthcare information can be retrieved when answering user questions.
+The document is processed, converted into vector embeddings, and stored in Pinecone so the AI Agent can retrieve relevant information when answering patient questions.
+
+👉 [View / Download Healthcare Patient Guide](sample-data/Healthcare_Patient_Guide.pdf)
 
 ## 🎯 Key Features
 
